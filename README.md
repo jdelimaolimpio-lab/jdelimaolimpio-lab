@@ -1,103 +1,25 @@
-<h1 align="center">Olá, eu sou o J. de Lima Olímpio 👋</h1>
+<!-- ═══════════════ HEADER ═══════════════ --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b27,50:7aa2f7,100:bb9af7&text=J.%20de%20Lima%20Ol%C3%ADmpio&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Web%20%26%20Backend%20%C2%B7%20Dados%20%C2%B7%20Arquitetura%20de%20Software&descAlignY=60&descSize=16" alt="Banner" width="100%" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=Transformando+dados+e+l%C3%B3gica+em+solu%C3%A7%C3%B5es+simples;Desenvolvimento+Web+%26+Backend;An%C3%A1lise+de+Dados+%26+BI;Arquitetura+e+design+de+sistemas" alt="Typing SVG" />
 
-<p align="center">
+<br/><br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Entusiasta+de+Tecnologia+%F0%9F%92%BB;Desenvolvimento+Web+%26+Backend+%E2%9A%99%EF%B8%8F;An%C3%A1lise+de+Dados+%F0%9F%93%8A;Sempre+Aprendendo+%F0%9F%9A%80" alt="Typing SVG" />
+<a href="mailto:jdelimaolimpio@gmail.com"><img src="https://img.shields.io/badge/E--mail-24283b?style=for-the-badge&logo=gmail&logoColor=7aa2f7" alt="E-mail" /></a> <a href="https://github.com/jdelimaolimpio-lab"><img src="https://img.shields.io/badge/GitHub-24283b?style=for-the-badge&logo=github&logoColor=7aa2f7" alt="GitHub" /></a>
 
-</p>
+</div> <br/> <!-- ═══════════════ SOBRE + STATS ═══════════════ --> <table align="center" width="100%" border="0"> <tr> <td width="52%" valign="top">
+🧭 Sobre mim
 
-<p align="center">
+Desenvolvedor em evolução constante, unindo código, dados e design para entregar interfaces simples e eficientes.
 
-  <a href="mailto:jdelimaolimpio@gmail.com">
-
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
-  </a>
-
-</p>
-
-## 🚀 Sobre Mim
-
-* 🔭 Atualmente desenvolvendo projetos em programação web, backend e análise visual
-
-* 💡 Apaixonado(a) por transformar dados e lógica em interfaces simples e eficientes
-
-* 🎯 Buscando evoluir constantemente em arquitetura de software e design de sistemas
-
-* 🌱 Sempre aprendendo algo novo — hoje aspirante, amanhã referência!
-
-## 💻 Linguagens & Tecnologias
-
-<p align="center">
-
-  <img src="https://skillicons.dev/icons?i=python,js,php,java,c,html,css" />
-
-</p>
-
-## 🗄️ Banco de Dados
-
-<p align="center">
-
-  <img src="https://skillicons.dev/icons?i=mariadb" />
-
-</p>
-
-## 📊 Design, BI & Produtividade
-
-<p align="center">
-
-  <img src="https://skillicons.dev/icons?i=powerbi,canva,notion" />
-
-</p>
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
-
-</p>
-
-## 🛠️ Softwares & Ambientes
-
-<p align="center">
-
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
-
-</p>
-
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jdelimaolimpio-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdelimaolimpio-lab&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-  <img src="https://streak-stats.demolab.com?user=jdelimaolimpio-lab&theme=tokyonight&hide_border=true" />
-
-</p>
-
-## 📫 Contato
-
-<p align="center">
-
-  <a href="mailto:jdelimaolimpio@gmail.com">
-
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-
-  </a>
-
-</p>
-
-<p align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=jdelimaolimpio-lab&label=Visualizações+no+perfil&color=blue&style=flat" />
-
-</p>
+	
+🔭 Foco atual	Projetos web, backend e análise visual
+💡 Proposta	Converter dados e lógica em produtos claros
+🎯 Objetivo	Evoluir em arquitetura e design de sistemas
+🌱 Mentalidade	Hoje aspirante, amanhã referência
+</td> <td width="48%" valign="top" align="center"> <br/> <img src="https://github-readme-stats.vercel.app/api?username=jdelimaolimpio-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27" alt="GitHub Stats" width="100%" /> </td> </tr> </table> <br/> <!-- ═══════════════ TECH STACK ═══════════════ --> <h2 align="center">⚡ Tech Stack</h2> <table align="center" width="100%" border="0"> <tr> <td width="50%" valign="top">
+🌐 Web & Backend
+<img src="https://img.shields.io/badge/Python-24283b?style=flat-square&logo=python&logoColor=7aa2f7" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-24283b?style=flat-square&logo=javascript&logoColor=7aa2f7" alt="JavaScript" /> <img src="https://img.shields.io/badge/PHP-24283b?style=flat-square&logo=php&logoColor=7aa2f7" alt="PHP" /> <img src="https://img.shields.io/badge/Java-24283b?style=flat-square&logo=openjdk&logoColor=7aa2f7" alt="Java" /> <img src="https://img.shields.io/badge/C-24283b?style=flat-square&logo=c&logoColor=7aa2f7" alt="C" /> <img src="https://img.shields.io/badge/HTML5-24283b?style=flat-square&logo=html5&logoColor=7aa2f7" alt="HTML" /> <img src="https://img.shields.io/badge/CSS3-24283b?style=flat-square&logo=css3&logoColor=7aa2f7" alt="CSS" /> </td> <td width="50%" valign="top">
+🗄️ Banco de Dados
+<img src="https://img.shields.io/badge/MariaDB-24283b?style=flat-square&logo=mariadb&logoColor=7aa2f7" alt="MariaDB" /> <img src="https://img.shields.io/badge/SQL-24283b?style=flat-square&logo=mysql&logoColor=7aa2f7" alt="SQL" /> <br/>
+🛠️ Ferramentas & Ambiente
+<img src="https://img.shields.io/badge/VS%20Code-24283b?style=flat-square&logo=visualstudiocode&logoColor=7aa2f7" alt="VS Code" /> <img src="https://img.shields.io/badge/Git-24283b?style=flat-square&logo=git&logoColor=7aa2f7" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-24283b?style=flat-square&logo=github&logoColor=7aa2f7" alt="GitHub" /> <img src="https://img.shields.io/badge/Arduino-24283b?style=flat-square&logo=arduino&logoColor=7aa2f7" alt="Arduino" /> <img src="https://img.shields.io/badge/XAMPP-24283b?style=flat-square&logo=xampp&logoColor=7aa2f7" alt="XAMPP" /> </td> </tr> <tr> <td colspan="2" valign="top">
+📊 Análise de Dados, BI & Produtividade
+<img src="https://img.shields.io/badge/Power%20BI-24283b?style=flat-square&logo=powerbi&logoColor=7aa2f7" alt="Power BI" /> <img src="https://img.shields.io/badge/Excel-24283b?style=flat-square&logo=microsoftexcel&logoColor=7aa2f7" alt="Excel" /> <img src="https://img.shields.io/badge/Word-24283b?style=flat-square&logo=microsoftword&logoColor=7aa2f7" alt="Word" /> <img src="https://img.shields.io/badge/PowerPoint-24283b?style=flat-square&logo=microsoftpowerpoint&logoColor=7aa2f7" alt="PowerPoint" /> <img src="https://img.shields.io/badge/Canva-24283b?style=flat-square&logo=canva&logoColor=7aa2f7" alt="Canva" /> <img src="https://img.shields.io/badge/Notion-24283b?style=flat-square&logo=notion&logoColor=7aa2f7" alt="Notion" /> </td> </tr> </table> <br/> <!-- ═══════════════ MÉTRICAS ═══════════════ --> <h2 align="center">📈 Métricas</h2> <table align="center" width="100%" border="0"> <tr> <td width="50%" align="center" valign="middle"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdelimaolimpio-lab&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" width="100%" /> </td> <td width="50%" align="center" valign="middle"> <img src="https://streak-stats.demolab.com?user=jdelimaolimpio-lab&theme=tokyonight&hide_border=true&background=1a1b27" alt="Streak Stats" width="100%" /> </td> </tr> </table> <br/> <!-- ═══════════════ CONTATO ═══════════════ --> <h2 align="center">🤝 Vamos conversar?</h2> <p align="center"> Aberto a colaborações, projetos e boas trocas sobre tecnologia. </p> <p align="center"> <a href="mailto:jdelimaolimpio@gmail.com"><img src="https://img.shields.io/badge/Enviar%20e--mail-7aa2f7?style=for-the-badge&logo=gmail&logoColor=1a1b27" alt="Enviar e-mail" /></a> <a href="https://github.com/jdelimaolimpio-lab"><img src="https://img.shields.io/badge/Ver%20meus%20projetos-bb9af7?style=for-the-badge&logo=github&logoColor=1a1b27" alt="Meus projetos" /></a> </p> <!-- ═══════════════ FOOTER ═══════════════ --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:bb9af7,50:7aa2f7,100:1a1b27&section=footer" alt="Footer" width="100%" /> <img src="https://komarev.com/ghpvc/?username=jdelimaolimpio-lab&label=Visualiza%C3%A7%C3%B5es&color=7aa2f7&labelColor=1a1b27&style=flat-square" alt="Visualizações" /> </div>
